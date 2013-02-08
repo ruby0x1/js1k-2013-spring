@@ -7,4 +7,7 @@ Submitted for 2013 js1k competition.
 
 [Official Site](http://js1k.com/2013-spring/)
 
-[View Demo](http://underscorediscovery.com/dev/js1k.html)
+[Official Site Demo](http://js1k.com/2013-spring/demo/1310)
+
+[My own site Demo](http://underscorediscovery.com/dev/js1k.html)
+
